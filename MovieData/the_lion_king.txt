@@ -1,0 +1,4 @@
+Title: The Lion King
+Year: 1994
+Genre: Animation
+Rating: 8.5

@@ -1,0 +1,4 @@
+Title: Star Wars: A New Hope
+Year: 1977
+Genre: Science Fiction
+Rating: 8.6

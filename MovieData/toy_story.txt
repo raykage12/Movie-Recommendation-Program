@@ -1,0 +1,4 @@
+Title: Toy Story
+Year: 1995
+Genre: Animation
+Rating: 8.3

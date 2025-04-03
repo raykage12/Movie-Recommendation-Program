@@ -1,0 +1,4 @@
+Title: Gladiator
+Year: 2000
+Genre: Action
+Rating: 8.5

@@ -1,0 +1,4 @@
+Title: Forrest Gump
+Year: 1994
+Genre: Drama
+Rating: 8.8

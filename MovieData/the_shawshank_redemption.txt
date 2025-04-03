@@ -1,0 +1,4 @@
+Title: The Shawshank Redemption
+Year: 1994
+Genre: Drama
+Rating: 9.3

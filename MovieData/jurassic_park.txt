@@ -1,0 +1,4 @@
+Title: Jurassic Park
+Year: 1993
+Genre: Science Fiction
+Rating: 8.1
